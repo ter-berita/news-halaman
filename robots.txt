@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ter-berita.github.io/news-halaman/sitemap.xml
